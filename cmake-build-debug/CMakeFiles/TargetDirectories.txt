@@ -1,0 +1,3 @@
+D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/CMakeFiles/Visual_Studio_2017_solution.dir
+D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir

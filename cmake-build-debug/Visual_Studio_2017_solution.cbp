@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Visual_Studio_2017_solution"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Visual_Studio_2017_solution">
+				<Option output="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Visual_Studio_2017_solution.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include"/>
+					<Add directory="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 Visual_Studio_2017_solution"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Visual_Studio_2017_solution/fast">
+				<Option output="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Visual_Studio_2017_solution.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include"/>
+					<Add directory="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 Visual_Studio_2017_solution/fast"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/DepthFBO.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils/BlinnPhongProgram.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils/CubeMap.hpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils/DebugOutput.hpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils/GLUtils.hpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils/Program.hpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils/ShadowProgram.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GLUtils/VBO.hpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GameException.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GameManager.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/GeometryManager.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/Model.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/Timer.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/include/VirtualTrackball.h">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/src/DepthFBO.cpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/src/GameManager.cpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/src/GeometryManager.cpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/src/Model.cpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/src/VirtualTrackball.cpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/src/main.cpp">
+			<Option target="Visual_Studio_2017_solution"/>
+		</Unit>
+		<Unit filename="D:/Emner/3. trinn/PG6200 - Graphics programming/Innlevering 1/Visual Studio 2017 solution/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
